@@ -1,3 +1,4 @@
+![logo](https://github.com/kshitijshettyyy/kshitijshettyyy/blob/main/Black%20Minimal%20Motivation%20Quote%20LinkedIn%20Banner.png)
 <h1 align="center">Hey there <img width=35 src="https://em-content.zobj.net/source/microsoft-teams/337/waving-hand_1f44b.png"> this is Kshitij Shetty</h1>
 <h3 align="center">A tech enthusiast from India</h3>
 <img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
