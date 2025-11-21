@@ -11,7 +11,8 @@
 
 ### 🧑‍💻 About Me
 
-- 🎓 **Computer Science graduate from NMAMIT**
+- 🏢 Currently working as SDE **HashiCorp, an IBM Company**
+- 🎓 **ISE graduate from NMAMIT**
 - 🏗️ Passionate about backend engineering, automation and infrastructure systems
 - 🔍 Exploring: **Go, Distributed Systems, DevOps, Security, Observability**
 - ⚡ Obsessed with improving developer workflows, productivity tools & terminal setups
