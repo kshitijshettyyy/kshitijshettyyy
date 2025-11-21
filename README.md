@@ -11,6 +11,15 @@
   <img src="https://komarev.com/ghpvc/?username=kshitijshettyyy&label=Profile+Views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kshitijshettyyy&show_icons=true&theme=tokyonight&hide_border=true" height="150" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kshitijshettyyy&theme=tokyonight&hide_border=true" height="150" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kshitijshettyyy&layout=compact&theme=tokyonight&hide_border=true" height="150" />
+</p>
+
 ---
 
 ### 🧑‍💻 About Me
