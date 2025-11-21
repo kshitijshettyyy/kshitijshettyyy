@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner.jpg" alt="Banner" style="max-width:100%;" />
+  <img src="banner.jpg" alt="Banner" style="max-width:100%;" />
 </p>
 
 <h1 align="center">👋 Hey, I'm <strong>Kshitij Shetty</strong></h1>
