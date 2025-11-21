@@ -23,8 +23,8 @@
 
 ### Contact
 
-- Email: [kshitijkishoreshetty@gmail.com](mailto:kshitijkishoreshetty@gmail.com)
-- [LinkedIn](https://www.linkedin.com/in/kshitijkishoreshetty/) <!-- Make sure this URL is correct -->
+- [Gmail](mailto:kshitijkishoreshetty@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/kshitijkishoreshetty/)
 
 ---
 
